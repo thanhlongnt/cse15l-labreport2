@@ -1,1 +1,1 @@
-H
+In the last two weeks, I've learned the basics of url structures and how to read it in code. I've also learned how to ssh into a remote server as well as how to create a private key through the terminal and copy it to the server. Visual Studio Code and JUnit aren't entirely new to me since I've been using them for CSE12 PAs. 
