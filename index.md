@@ -26,8 +26,13 @@ The innitial query gets split (at &) into two arguments to disttinguish which ar
 Finally, the method checks if there are any '+' in the method (because for some reason spaces are replaced with '+') and replaces all '+' will spaces.   
 
 ## Part 2
+Absolute path to private key for SSH key for logging into `ieng6`
 ![Image](Screenshot 2024-01-27 at 6.40.19 PM.png)
+
+Absolute path to the pyblic key for my SSH key for logging into `ieng6` (on `ieng6` file system)
 ![Image](Screenshot 2024-01-27 at 6.43.28 PM.png)
+
+Terminal interaction logging into `ieng6` without being asked for password.
 ![Image](Screenshot 2024-01-27 at 6.41.43 PM.png)
 
 ## Part 3
